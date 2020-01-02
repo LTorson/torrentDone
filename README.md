@@ -1,6 +1,12 @@
 # torrentDone
 Python script to send an email when all torrent activity is completed on any client with an auto-exit feature.
 
+# Requirements
+
+Requires pywin32 module 
+
+`python -m pip install pywin32`
+
 # Usage
 
 * Assign variables `programName` `senderEmail` `receiverEmail` as required, `senderEmail` must be a Gmail account.
