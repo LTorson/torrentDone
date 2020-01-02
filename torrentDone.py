@@ -11,7 +11,7 @@ senderEmail = "sender@gmail.com"
 password = input("Password for sender email: ")
 receiverEmail = "receiver@gmail.com"
 message = """\
-Subject: Downloads Finishedexpod
+Subject: Downloads Finished
 
 This message is sent from Python."""
 
